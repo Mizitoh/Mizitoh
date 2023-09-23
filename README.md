@@ -1,3 +1,5 @@
+# Welcome
+
 Constaintly updating my knowledge in computer languages, especially Java.  I'm interested in improving my knowledge in other technologies such as Flutter, JavaScript  and their frameworks too.
 
 A Java devoloper who loves code, also working with node, angular and other magic tools.
@@ -7,7 +9,7 @@ Let's talk about your necessities, let's have a coffee and, who knows, start dec
 
 <br>
 
-# Tecnologias
+# Some technologies I know...
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" heigth="80" width="80"/>
@@ -24,7 +26,7 @@ Let's talk about your necessities, let's have a coffee and, who knows, start dec
 </div>
 <br>
 
-# Contato
+# Contact
 
 <br>
 <a href="https://www.linkedin.com/in/michael-pereira-de-oliveira-99a562146/">
