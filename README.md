@@ -41,3 +41,4 @@ Let's talk about your necessities, let's have a coffee and, who knows, start dec
 <br>
 
 <img src="https://badges.pufler.dev/visits/Mizitoh/Mizitoh" alt="Visitors badge" align="center" heigth="70" width="70"/>
+<img src="https://profile-counter.glitch.me/Mizitoh/count.svg" alt="Visitors badge" align="center" heigth="70" width="70"/>
