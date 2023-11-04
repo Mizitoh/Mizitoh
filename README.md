@@ -23,6 +23,7 @@ Let's talk about your necessities, let's have a coffee and, who knows, start dec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" align="center" heigth="60" width="60"/>
   <img src="https://skillicons.dev/icons?i=prisma,eclipse,postman,express" align="center" heigth="280" width="280"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" align="center" heigth="80" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" align="center" heigth="60" width="60"/>
 </div>
 <br>
 
